@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "DOM-Atak",
-  "description": "This extension demonstrates a 'browser action' with kittens.",
+  "name": "Chronos",
+  "description": "This extension tracks you web usage and visualizes it to you",
   "version": "1.0",
 
   "browser_action": {
